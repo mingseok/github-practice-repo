@@ -6,4 +6,12 @@ public class MemberController {
         return null;
     }
 
+    public String member1() {
+        return null;
+    }
+
+    public String member2() {
+        return null;
+    }
+
 }
