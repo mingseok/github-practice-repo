@@ -1,5 +1,5 @@
 package com.example.github.develop;
 
-public class DevelopA {
+public class Develop {
     // 메인
 }
